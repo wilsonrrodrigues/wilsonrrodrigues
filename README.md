@@ -3,7 +3,13 @@
 
 -🎓 Formado em Análise e Desenvolvimento de Sistemas </br>
 -🎮 Jogador dos mais diversos jogos </br>
--🤓 Estudando Javascript
+-🤓 Estudando Javascript(React/Node)
+
+##
+
+<div>
+  <a href="https://web.dio.me/users/wilson_rrodrigues?tab=achievements">Certificações na Digital Innovation One</a>
+</div>
 
 ##
 
@@ -24,6 +30,5 @@
 <div>
   <a href="https://www.instagram.com/wilson.rrodrigues/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wilson-rodrigues-2a569b122/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.facebook.com/wilson.rodrigues25/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/wilson.rodrigues25/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
