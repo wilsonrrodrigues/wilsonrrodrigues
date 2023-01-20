@@ -3,7 +3,7 @@
 
 -🎓 Formado em Análise e Desenvolvimento de Sistemas </br>
 -🎮 Jogador dos mais diversos jogos </br>
--🤓 Estudando Javascript(React/Node)
+-🤓 Estudando Javascript(Node.js)
 
 ##
 
