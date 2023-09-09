@@ -2,8 +2,34 @@
 
 
 -🎓 Formado em Análise e Desenvolvimento de Sistemas </br>
+-🤓 Cursando Ciências da Computação </br>
 -🎮 Jogador dos mais diversos jogos </br>
 -🤓 Estudando Javascript(Node.js)
+
+##
+
+<div>
+     <div>
+      <h4>Hard Skills</h4>
+      <ul>
+        <li>Html</li>
+        <li>Javascript</li>
+        <li>Node.js</li>
+        <li>Banco de Dados Sql & NoSql</li>
+      </ul>
+    </div>
+    <div>
+      <h4>Soft Skills</h4>
+      <ul>
+        <li>Colaboração</li>
+        <li>Flexibilidade</li>
+        <li>Organização</li>
+        <li>Comunicação eficaz</li>
+        <li>Empatia</li>
+        <li>Resiliência</li>
+      </ul>
+    </div>
+  </div>
 
 ##
 
