@@ -1,10 +1,7 @@
 ## Sejam bem-vindos! Sou o Wilson Rodrigues  🌎 
 
-
 -🎓 Formado em Análise e Desenvolvimento de Sistemas </br>
 -🤓 Cursando Ciências da Computação </br>
--🎮 Jogador dos mais diversos jogos </br>
--🤓 Estudando Javascript(Node.js)
 
 ##
 
