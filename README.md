@@ -2,6 +2,7 @@
 
 -🎓 Formado em Análise e Desenvolvimento de Sistemas </br>
 -🤓 Cursando Ciências da Computação </br>
+-🚀 A procura da primeira oportunidade na área
 
 ##
 
