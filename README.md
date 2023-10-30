@@ -32,7 +32,7 @@
 ##
 
 <div>
-  <a href="https://web.dio.me/users/wilson_rrodrigues?tab=achievements">Certificações na Digital Innovation One</a>
+  <a href="https://www.dio.me/users/wilson_rrodrigues">Certificações na Digital Innovation One</a>
 </div>
 
 ##
